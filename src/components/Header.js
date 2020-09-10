@@ -2,7 +2,7 @@ import React from "react";
 import $ from "jquery";
 
 import "../assets/js/jquery.easing.1.3.js";
-import "../assets/js/jquery.ui.totop.my.js";
+import "../assets/js/jquery.ui.totop.js";
 
 // import "../assets/css/owl.carousel.css";
 
