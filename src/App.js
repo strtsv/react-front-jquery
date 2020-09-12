@@ -13,7 +13,6 @@ import Contacts from "./pages/Contacts";
 function App() {
   return (
     <Switch>
-      <Route exact path="/about-us.html" component={About} />
       <Route exact path="/contact-us.html" component={Contacts} />
       <Route exact path="/blog.html" component={Blog} />
       <Route exact path="/" component={Home} />
